@@ -1,0 +1,12 @@
+
+# App Configs
+platformName=Android
+automationName= UiAutomator2
+appPackage= com.deltaexchangeindia
+appActivity= com.deltaexchangeindia.MainActivity
+noReset= true
+disableHiddenApiPolicyError= true
+forceAppLaunch=true
+
+
+#Login Information or other information
